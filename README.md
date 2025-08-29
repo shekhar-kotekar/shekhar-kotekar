@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Chandrashekhar
-- 👀 I’m interested in developing working scalable systems and learning new technologies, methodologies.
-- 🌱 I’m currently learning <b>functional</b> programming and DevOps skills.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in developing working, scalable, distributed systems.
+- 🌱 I’m currently learning Rust, MLOps and DevOps skills.
 
 <!---
 shekhar-kotekar/shekhar-kotekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
